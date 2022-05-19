@@ -10,7 +10,7 @@
 
 - 📫 Reach 👇<br>
 
-[![](https://img.shields.io/badge/-deveshjain2511-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devesh-jain-2511dj)](https://www.linkedin.com/in/devesh-jain-2511dj/)
+[![](https://img.shields.io/badge/-deveshjain2511-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divij-kharche-b218aa1b8/)](https://www.linkedin.com/in/divij-kharche-b218aa1b8/)
 [![](https://img.shields.io/badge/-deveshjain._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/deveshjain._)](https://www.instagram.com/deveshjain._)
 [![](https://img.shields.io/badge/-deveshsolapur@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deveshjain)](mailto:deveshsolapur@gmail.com)
 [![](https://img.shields.io/badge/-dkharche-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkharche)
