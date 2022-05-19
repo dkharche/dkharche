@@ -11,10 +11,10 @@
 - 📫 Reach 👇<br>
 
 [![](https://img.shields.io/badge/-divijkharche-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divij-kharche-b218aa1b8/)](https://www.linkedin.com/in/divij-kharche-b218aa1b8/)
-[![](https://img.shields.io/badge/-deveshjain._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/deveshjain._)](https://www.instagram.com/deveshjain._)
-[![](https://img.shields.io/badge/-deveshsolapur@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deveshjain)](mailto:deveshsolapur@gmail.com)
+[![](https://img.shields.io/badge/-_divijkharche._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_divijkharche/)](https://www.instagram.com/_divijkharche/)
+[![](https://img.shields.io/badge/-divijkharche01@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:divijkharche)](mailto:divijkharche01@gmail.com)
 [![](https://img.shields.io/badge/-dkharche-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dkharche)
-[![](https://img.shields.io/badge/-devesh%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eVfSspfjvb)
+
  <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
  
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=dkharche)
