@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi Folks <img src="wave.gif" width="30px">, Divij here!</h1>
-<h3 align="center">I am a Computer Science student, Web developer & ML enthusiast.</h3>
+<h3 align="center">I am a Computer Science student,Devops & ML enthusiast.</h3>
 
 - 💻 **[Check out my projects!](https://github.com/dkharche?tab=repositories)**
 
