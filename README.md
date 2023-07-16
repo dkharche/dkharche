@@ -46,6 +46,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 ![ios](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+
 - 💻🔌 Off Github ***I Travel, I Play, I Listen***
 <!-- https://github.com/dkharche/github-readme-stats -->
 
